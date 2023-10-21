@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'ArticleMysticHellow';
-    src: url('../Fonts/Flavors/Flavors-Regular.ttf') format('truetype');
+    src: url('Fonts/Flavors/Flavors-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TextHellow';
-    src: url('../Fonts/Griffy/Griffy-Regular.ttf') format('truetype');
+    src: url('Fonts/Griffy/Griffy-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TextForQuestHellow';
-    src: url('../Fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf') format('truetype');
+    src: url('Fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Daedra';
-    src: url('../Fonts/SkyrimDaedra-VeYz.ttf') format('truetype');
+    src: url('Fonts/SkyrimDaedra-VeYz.ttf') format('truetype');
 }
 body {
     display: flex;
@@ -261,7 +261,7 @@ ul {
 
 .test {
     padding: 50 0 0 0;
-    background-image: url('../Asets/Ten2.png');
+    background-image: url('Asets/Ten2.png');
     background-size: cover;
     background-position: center;
     width: 100%;
