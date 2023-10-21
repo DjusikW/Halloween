@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'ArticleMysticHellow';
-    src: url('Fonts/Flavors/Flavors-Regular.ttf') format('truetype');
+    src: url('Fonts\Flavors\Flavors-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TextHellow';
-    src: url('Fonts/Griffy/Griffy-Regular.ttf') format('truetype');
+    src: url('Fonts\Griffy\Griffy-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TextForQuestHellow';
-    src: url('Fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf') format('truetype');
+    src: url('Fonts\Gloria_Hallelujah\GloriaHallelujah-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Daedra';
-    src: url('Fonts/SkyrimDaedra-VeYz.ttf') format('truetype');
+    src: url('Fonts\SkyrimDaedra-VeYz.ttf') format('truetype');
 }
 body {
     display: flex;
@@ -283,7 +283,7 @@ ul {
     font-size: 250%;
     /*max-width: 100%;
     max-height: 100%;*/
-    font-family: 'ArticleMysticHellow', sans-serif;
+    font-family: 'ArticleMysticHellow';
     z-index: 3;
    
 }
