@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'ArticleMysticHellow';
-    src: url('\Flavors.ttf') format('truetype');
+    src: url('/Flavors.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TextHellow';
-    src: url('/Fonts/Griffy/Griffy-Regular.ttf') format('truetype');
+    src: url('/Fonts/Griffy-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TextForQuestHellow';
-    src: url('/Fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf') format('truetype');
+    src: url('/Fonts/GloriaHallelujah-Regular.ttf') format('truetype');
 }
 
 @font-face {
