@@ -24,6 +24,11 @@ body {
     background-image: linear-gradient(to bottom, #774360, #57007E, #36034d, #270338, #1d0960);
 }
 
+.imgs {
+    max-width: 20vw;
+    max-height: 13vw;
+    padding: 5px;
+}
 @media (max-width: 1366px) {
     div {
         padding: 5px;
@@ -95,11 +100,7 @@ body {
     background-image: linear-gradient(to bottom, #57007E, #36034d);
 }
 
-.imgs {
-    max-width: 20vw;
-    max-height: 13vw;
-    padding: 5px;
-}
+
 
 .buttons {
     text-decoration: none;
