@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'ArticleMysticHellow';
-    src: url('../Flavors/Flavors-Regular.ttf') format('truetype');
+    src: url('..\Flavors\Flavors-Regular.ttf') format('truetype');
 }
 
 @font-face {
