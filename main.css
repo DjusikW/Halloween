@@ -29,6 +29,11 @@ body {
         padding: 5px;
         max-width: 99%;
     }
+    .imgs {
+    max-width: 17vw;
+    max-height: 11vw;
+    padding: 5px;
+}
 }
 
 .article1 {
